@@ -1,0 +1,4 @@
+inference-gpu[yolo-world]==0.35.0
+supervision==0.25.1
+gradio==4.19.0
+tqdm==4.66.2
